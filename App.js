@@ -11,8 +11,8 @@ EStyleSheet.build({
 });
 
 export default class App extends React.Component {
-    render() {
-        // LogBox.ignoreAllLogs(true);
+    render() { 
+        
         return (
             <NavigationContainer>
                 <IndexFile />
